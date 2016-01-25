@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aligned-text xmlns="http://alpheios.net/namespaces/aligned-text">
+   <language lnum="L1" xml:lang="fa" dir="rtl"/>
+   <language lnum="L2" xml:lang="en" dir="ltr"/>
+   <comment class="title">Hafez Kha Farsi-English Alignment</comment>
+<comment class="provenance">
+    <prov:agent xmlns:prov="http://www.w3.org/ns/prov#" prov:id="http://sosol.perseids.org/sosol/users/Saman">
+            <prov:name>Saman Rezaie</prov:name>
+            <prov:type>prov:Person</prov:type>
+            <prov:role>Annotator</prov:role>
+    </prov:agent>
+    <prov:agent xmlns:prov="http://www.w3.org/ns/prov#" prov:id="http://sosol.perseids.org/sosol/users/Maryam%20Foradi">
+            <prov:name>Maryam Foradi</prov:name>
+            <prov:type>prov:Person</prov:type>
+            <prov:role>Reviewer</prov:role>
+    </prov:agent>
+  </comment>
+   <sentence id="1" document_id="cite/perseus/align.2864.1">
+      <wds lnum="L1">
+         <comment xmlns:ns_1="http://www.w3.org/1999/xlink" class="uri">http://sosol.perseids.org/sosol/cts/getpassage/6552/urn:cts:farsiLit:hafez.divan.perseus-far1:9.1-9.1</comment>
+         <w n="1-1">
+            <text>دل</text>
+            <refs nrefs="1-2"/>
+         </w>
+         <w n="1-2">
+            <text>من</text>
+            <refs nrefs="1-1"/>
+         </w>
+         <w n="1-3">
+            <text>در</text>
+            <refs nrefs="1-4"/>
+         </w>
+         <w n="1-4">
+            <text>هوای</text>
+            <refs nrefs="1-5 1-6"/>
+         </w>
+         <w n="1-5">
+            <text>روی</text>
+            <refs nrefs="1-7 1-8 1-9"/>
+         </w>
+         <w n="1-6">
+            <text>فرخ</text>
+            <refs nrefs="1-10"/>
+         </w>
+         <w n="1-7">
+            <text>###</text>
+         </w>
+         <w n="1-8">
+            <text>بود</text>
+            <refs nrefs="1-13"/>
+         </w>
+         <w n="1-9">
+            <text>آشفته</text>
+            <refs nrefs="1-14 1-15"/>
+         </w>
+         <w n="1-10">
+            <text>همچون</text>
+            <refs nrefs="1-16"/>
+         </w>
+         <w n="1-11">
+            <text>موی</text>
+            <refs nrefs="1-17 1-19 1-20"/>
+         </w>
+         <w n="1-12">
+            <text>فرخ</text>
+            <refs nrefs="1-21"/>
+         </w>
+         <w n="1-13">
+            <text>***</text>
+         </w>
+         <w n="1-14">
+            <text>بجز</text>
+            <refs nrefs="1-24"/>
+         </w>
+         <w n="1-15">
+            <text>هندوی</text>
+            <refs nrefs="1-25 1-27 1-29"/>
+         </w>
+         <w n="1-16">
+            <text>زلفش</text>
+            <refs nrefs="1-30 1-31"/>
+         </w>
+         <w n="1-17">
+            <text>هیچ</text>
+            <refs nrefs="1-33 1-34"/>
+         </w>
+         <w n="1-18">
+            <text>کس</text>
+            <refs nrefs="1-33 1-34"/>
+         </w>
+         <w n="1-19">
+            <text>نیست</text>
+            <refs nrefs="1-33 1-34"/>
+         </w>
+         <w n="1-20">
+            <text>###</text>
+         </w>
+         <w n="1-21">
+            <text>که</text>
+            <refs nrefs="1-37"/>
+         </w>
+         <w n="1-22">
+            <text>برخوردار</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-23">
+            <text>شد</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-24">
+            <text>از</text>
+            <refs nrefs="1-40"/>
+         </w>
+         <w n="1-25">
+            <text>روی</text>
+            <refs nrefs="1-41 1-42 1-43"/>
+         </w>
+         <w n="1-26">
+            <text>فرخ</text>
+            <refs nrefs="1-44"/>
+         </w>
+         <w n="1-27">
+            <text>***</text>
+         </w>
+         <w n="1-28">
+            <text>سیاهی</text>
+            <refs nrefs="1-47 1-48 1-50"/>
+         </w>
+         <w n="1-29">
+            <text>نیکبخت</text>
+            <refs nrefs="1-51 1-52"/>
+         </w>
+         <w n="1-30">
+            <text>است</text>
+            <refs nrefs="1-53"/>
+         </w>
+         <w n="1-31">
+            <text>آن</text>
+            <refs nrefs="1-54"/>
+         </w>
+         <w n="1-32">
+            <text>که</text>
+            <refs nrefs="1-55"/>
+         </w>
+         <w n="1-33">
+            <text>دایم</text>
+            <refs nrefs="1-56"/>
+         </w>
+         <w n="1-34">
+            <text>###</text>
+         </w>
+         <w n="1-35">
+            <text>بود</text>
+            <refs nrefs="1-58"/>
+         </w>
+         <w n="1-36">
+            <text>همراز</text>
+            <refs nrefs="1-59 1-60 1-61 1-62"/>
+         </w>
+         <w n="1-37">
+            <text>و</text>
+            <refs nrefs="1-63"/>
+         </w>
+         <w n="1-38">
+            <text>هم</text>
+            <refs nrefs="1-64 1-65 1-66 1-67 1-68"/>
+         </w>
+         <w n="1-39">
+            <text>زانوی</text>
+            <refs nrefs="1-64 1-65 1-66 1-67 1-68"/>
+         </w>
+         <w n="1-40">
+            <text>فرخ</text>
+            <refs nrefs="1-69"/>
+         </w>
+         <w n="1-41">
+            <text>***</text>
+         </w>
+         <w n="1-42">
+            <text>شود</text>
+            <refs nrefs="1-77"/>
+         </w>
+         <w n="1-43">
+            <text>چون</text>
+            <refs nrefs="1-72"/>
+         </w>
+         <w n="1-44">
+            <text>بید</text>
+            <refs nrefs="1-75"/>
+         </w>
+         <w n="1-45">
+            <text>لرزان</text>
+            <refs nrefs="1-73 1-74"/>
+         </w>
+         <w n="1-46">
+            <text>سرو</text>
+            <refs nrefs="1-78 1-79 1-80"/>
+         </w>
+         <w n="1-47">
+            <text>آزاد</text>
+         </w>
+         <w n="1-48">
+            <text>###</text>
+         </w>
+         <w n="1-49">
+            <text>اگر</text>
+            <refs nrefs="1-85"/>
+         </w>
+         <w n="1-50">
+            <text>بیند</text>
+            <refs nrefs="1-86 1-87"/>
+         </w>
+         <w n="1-51">
+            <text>قد</text>
+            <refs nrefs="1-92"/>
+         </w>
+         <w n="1-52">
+            <text>دلجوی</text>
+            <refs nrefs="1-88 1-89 1-90 1-91 1-93"/>
+         </w>
+         <w n="1-53">
+            <text>فرخ</text>
+            <refs nrefs="1-94"/>
+         </w>
+         <w n="1-54">
+            <text>***</text>
+         </w>
+         <w n="1-55">
+            <text>بده</text>
+            <refs nrefs="1-99"/>
+         </w>
+         <w n="1-56">
+            <text>ساقی</text>
+            <refs nrefs="1-97 1-98"/>
+         </w>
+         <w n="1-57">
+            <text>شراب</text>
+            <refs nrefs="1-100 1-101"/>
+         </w>
+         <w n="1-58">
+            <text>ارغوانی</text>
+            <refs nrefs="1-102 1-103"/>
+         </w>
+         <w n="1-59">
+            <text>###</text>
+         </w>
+         <w n="1-60">
+            <text>به</text>
+            <refs nrefs="1-105"/>
+         </w>
+         <w n="1-61">
+            <text>یاد</text>
+            <refs nrefs="1-106 1-107 1-108"/>
+         </w>
+         <w n="1-62">
+            <text>نرگس</text>
+            <refs nrefs="1-109 1-110 1-111"/>
+         </w>
+         <w n="1-63">
+            <text>جادوی</text>
+            <refs nrefs="1-112 1-113"/>
+         </w>
+         <w n="1-64">
+            <text>فرخ</text>
+            <refs nrefs="1-114"/>
+         </w>
+         <w n="1-65">
+            <text>***</text>
+         </w>
+         <w n="1-66">
+            <text>دوتا</text>
+            <refs nrefs="1-117"/>
+         </w>
+         <w n="1-67">
+            <text>شد</text>
+            <refs nrefs="1-122"/>
+         </w>
+         <w n="1-68">
+            <text>قامتم</text>
+            <refs nrefs="1-123 1-124"/>
+         </w>
+         <w n="1-69">
+            <text>همچون</text>
+            <refs nrefs="1-118"/>
+         </w>
+         <w n="1-70">
+            <text>کمانی</text>
+            <refs nrefs="1-119 1-120"/>
+         </w>
+         <w n="1-71">
+            <text>###</text>
+         </w>
+         <w n="1-72">
+            <text>ز</text>
+            <refs nrefs="1-126"/>
+         </w>
+         <w n="1-73">
+            <text>غم</text>
+            <refs nrefs="1-127"/>
+         </w>
+         <w n="1-74">
+            <text>پیوسته</text>
+            <refs nrefs="1-128"/>
+         </w>
+         <w n="1-75">
+            <text>چون</text>
+            <refs nrefs="1-129"/>
+         </w>
+         <w n="1-76">
+            <text>ابروی</text>
+            <refs nrefs="1-130 1-131 1-132"/>
+         </w>
+         <w n="1-77">
+            <text>فرخ</text>
+            <refs nrefs="1-133"/>
+         </w>
+         <w n="1-78">
+            <text>***</text>
+         </w>
+         <w n="1-79">
+            <text>نسیم</text>
+            <refs nrefs="1-136 1-137 1-138"/>
+         </w>
+         <w n="1-80">
+            <text>مشک</text>
+            <refs nrefs="1-139 1-140 1-141"/>
+         </w>
+         <w n="1-81">
+            <text>تاتاری</text>
+            <refs nrefs="1-142"/>
+         </w>
+         <w n="1-82">
+            <text>خجل</text>
+            <refs nrefs="1-144"/>
+         </w>
+         <w n="1-83">
+            <text>کرد</text>
+            <refs nrefs="1-145"/>
+         </w>
+         <w n="1-84">
+            <text>###</text>
+         </w>
+         <w n="1-85">
+            <text>شمیم</text>
+            <refs nrefs="1-147 1-148 1-149"/>
+         </w>
+         <w n="1-86">
+            <text>زلف</text>
+            <refs nrefs="1-150 1-151 1-152"/>
+         </w>
+         <w n="1-87">
+            <text>عنبربوی</text>
+            <refs nrefs="1-153 1-154"/>
+         </w>
+         <w n="1-88">
+            <text>فرخ</text>
+         </w>
+         <w n="1-89">
+            <text>***</text>
+         </w>
+         <w n="1-90">
+            <text>اگر</text>
+            <refs nrefs="1-156"/>
+         </w>
+         <w n="1-91">
+            <text>میل</text>
+            <refs nrefs="1-162 1-163 1-164"/>
+         </w>
+         <w n="1-92">
+            <text>دل</text>
+            <refs nrefs="1-167"/>
+         </w>
+         <w n="1-93">
+            <text>هر</text>
+            <refs nrefs="1-165"/>
+         </w>
+         <w n="1-94">
+            <text>کس</text>
+            <refs nrefs="1-166"/>
+         </w>
+         <w n="1-95">
+            <text>به</text>
+            <refs nrefs="1-157"/>
+         </w>
+         <w n="1-96">
+            <text>جایست</text>
+            <refs nrefs="1-158 1-159 1-161"/>
+         </w>
+         <w n="1-97">
+            <text>###</text>
+         </w>
+         <w n="1-98">
+            <text>بود</text>
+            <refs nrefs="1-175"/>
+         </w>
+         <w n="1-99">
+            <text>میل</text>
+            <refs nrefs="1-170 1-171 1-172"/>
+         </w>
+         <w n="1-100">
+            <text>دل</text>
+            <refs nrefs="1-174"/>
+         </w>
+         <w n="1-101">
+            <text>من</text>
+            <refs nrefs="1-173"/>
+         </w>
+         <w n="1-102">
+            <text>سوی</text>
+            <refs nrefs="1-176 1-179"/>
+         </w>
+         <w n="1-103">
+            <text>فرخ</text>
+            <refs nrefs="1-180"/>
+         </w>
+         <w n="1-104">
+            <text>***</text>
+         </w>
+         <w n="1-105">
+            <text>غلام</text>
+            <refs nrefs="1-185 1-186 1-187"/>
+         </w>
+         <w n="1-106">
+            <text>همت</text>
+            <refs nrefs="1-188 1-189"/>
+         </w>
+         <w n="1-107">
+            <text>آنم</text>
+            <refs nrefs="1-183 1-184 1-190 1-191"/>
+         </w>
+         <w n="1-108">
+            <text>که</text>
+            <refs nrefs="1-192"/>
+         </w>
+         <w n="1-109">
+            <text>باشد</text>
+            <refs nrefs="1-193"/>
+         </w>
+         <w n="1-110">
+            <text>###</text>
+         </w>
+         <w n="1-111">
+            <text>چو</text>
+            <refs nrefs="1-195"/>
+         </w>
+         <w n="1-112">
+            <text>حافظ</text>
+            <refs nrefs="1-196"/>
+         </w>
+         <w n="1-113">
+            <text>بنده</text>
+            <refs nrefs="1-198 1-199"/>
+         </w>
+         <w n="1-114">
+            <text>و</text>
+         </w>
+         <w n="1-115">
+            <text>هندوی</text>
+         </w>
+         <w n="1-116">
+            <text>فرخ</text>
+            <refs nrefs="1-205"/>
+         </w>
+         <w n="1-117">
+            <text>***</text>
+         </w>
+      </wds>
+      <wds lnum="L2">
+         <comment xmlns:ns_1="http://www.w3.org/1999/xlink" class="uri">http://sosol.perseids.org/sosol/cts/getpassage/6554/urn:cts:farsiLit:hafez.divan.perseus-eng1:9.1</comment>
+         <w n="1-1">
+            <text>My</text>
+            <refs nrefs="1-2"/>
+         </w>
+         <w n="1-2">
+            <text>heart</text>
+            <refs nrefs="1-1"/>
+         </w>
+         <w n="1-3">
+            <text>,</text>
+         </w>
+         <w n="1-4">
+            <text>in</text>
+            <refs nrefs="1-3"/>
+         </w>
+         <w n="1-5">
+            <text>desire</text>
+            <refs nrefs="1-4"/>
+         </w>
+         <w n="1-6">
+            <text>of</text>
+            <refs nrefs="1-4"/>
+         </w>
+         <w n="1-7">
+            <text>the</text>
+            <refs nrefs="1-5"/>
+         </w>
+         <w n="1-8">
+            <text>face</text>
+            <refs nrefs="1-5"/>
+         </w>
+         <w n="1-9">
+            <text>of</text>
+            <refs nrefs="1-5"/>
+         </w>
+         <w n="1-10">
+            <text>Farrukh</text>
+            <refs nrefs="1-6"/>
+         </w>
+         <w n="1-11">
+            <text>,</text>
+         </w>
+         <w n="1-12">
+            <text>###</text>
+         </w>
+         <w n="1-13">
+            <text>Is</text>
+            <refs nrefs="1-8"/>
+         </w>
+         <w n="1-14">
+            <text>in</text>
+            <refs nrefs="1-9"/>
+         </w>
+         <w n="1-15">
+            <text>confusion</text>
+            <refs nrefs="1-9"/>
+         </w>
+         <w n="1-16">
+            <text>like</text>
+            <refs nrefs="1-10"/>
+         </w>
+         <w n="1-17">
+            <text>the</text>
+            <refs nrefs="1-11"/>
+         </w>
+         <w n="1-18">
+            <text>dishevelled</text>
+         </w>
+         <w n="1-19">
+            <text>hair</text>
+            <refs nrefs="1-11"/>
+         </w>
+         <w n="1-20">
+            <text>of</text>
+            <refs nrefs="1-11"/>
+         </w>
+         <w n="1-21">
+            <text>Farrukh</text>
+            <refs nrefs="1-12"/>
+         </w>
+         <w n="1-22">
+            <text>.</text>
+         </w>
+         <w n="1-23">
+            <text>***</text>
+         </w>
+         <w n="1-24">
+            <text>Save</text>
+            <refs nrefs="1-14"/>
+         </w>
+         <w n="1-25">
+            <text>the</text>
+            <refs nrefs="1-15"/>
+         </w>
+         <w n="1-26">
+            <text>black</text>
+         </w>
+         <w n="1-27">
+            <text>Hindu</text>
+            <refs nrefs="1-15"/>
+         </w>
+         <w n="1-28">
+            <text>slave</text>
+         </w>
+         <w n="1-29">
+            <text>of</text>
+            <refs nrefs="1-15"/>
+         </w>
+         <w n="1-30">
+            <text>his</text>
+            <refs nrefs="1-16"/>
+         </w>
+         <w n="1-31">
+            <text>tress</text>
+            <refs nrefs="1-16"/>
+         </w>
+         <w n="1-32">
+            <text>,</text>
+         </w>
+         <w n="1-33">
+            <text>is</text>
+            <refs nrefs="1-17 1-18 1-19"/>
+         </w>
+         <w n="1-34">
+            <text>none</text>
+            <refs nrefs="1-17 1-18 1-19"/>
+         </w>
+         <w n="1-35">
+            <text>,</text>
+         </w>
+         <w n="1-36">
+            <text>###</text>
+         </w>
+         <w n="1-37">
+            <text>That</text>
+            <refs nrefs="1-21"/>
+         </w>
+         <w n="1-38">
+            <text>enjoyed</text>
+            <refs nrefs="1-22 1-23"/>
+         </w>
+         <w n="1-39">
+            <text>prosperity</text>
+            <refs nrefs="1-22 1-23"/>
+         </w>
+         <w n="1-40">
+            <text>from</text>
+            <refs nrefs="1-24"/>
+         </w>
+         <w n="1-41">
+            <text>the</text>
+            <refs nrefs="1-25"/>
+         </w>
+         <w n="1-42">
+            <text>face</text>
+            <refs nrefs="1-25"/>
+         </w>
+         <w n="1-43">
+            <text>of</text>
+            <refs nrefs="1-25"/>
+         </w>
+         <w n="1-44">
+            <text>Farrukh</text>
+            <refs nrefs="1-26"/>
+         </w>
+         <w n="1-45">
+            <text>.</text>
+         </w>
+         <w n="1-46">
+            <text>***</text>
+         </w>
+         <w n="1-47">
+            <text>The</text>
+            <refs nrefs="1-28"/>
+         </w>
+         <w n="1-48">
+            <text>black</text>
+            <refs nrefs="1-28"/>
+         </w>
+         <w n="1-49">
+            <text>tress</text>
+         </w>
+         <w n="1-50">
+            <text>pf</text>
+            <refs nrefs="1-28"/>
+         </w>
+         <w n="1-51">
+            <text>good</text>
+            <refs nrefs="1-29"/>
+         </w>
+         <w n="1-52">
+            <text>fortune</text>
+            <refs nrefs="1-29"/>
+         </w>
+         <w n="1-53">
+            <text>is</text>
+            <refs nrefs="1-30"/>
+         </w>
+         <w n="1-54">
+            <text>that</text>
+            <refs nrefs="1-31"/>
+         </w>
+         <w n="1-55">
+            <text>which</text>
+            <refs nrefs="1-32"/>
+         </w>
+         <w n="1-56">
+            <text>ever</text>
+            <refs nrefs="1-33"/>
+         </w>
+         <w n="1-57">
+            <text>###</text>
+         </w>
+         <w n="1-58">
+            <text>Is</text>
+            <refs nrefs="1-35"/>
+         </w>
+         <w n="1-59">
+            <text>the</text>
+            <refs nrefs="1-36"/>
+         </w>
+         <w n="1-60">
+            <text>fellow</text>
+            <refs nrefs="1-36"/>
+         </w>
+         <w n="1-61">
+            <text>-</text>
+            <refs nrefs="1-36"/>
+         </w>
+         <w n="1-62">
+            <text>traveller</text>
+            <refs nrefs="1-36"/>
+         </w>
+         <w n="1-63">
+            <text>and</text>
+            <refs nrefs="1-37"/>
+         </w>
+         <w n="1-64">
+            <text>the</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-65">
+            <text>fellowknee</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-66">
+            <text>-</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-67">
+            <text>sitter</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-68">
+            <text>of</text>
+            <refs nrefs="1-38 1-39"/>
+         </w>
+         <w n="1-69">
+            <text>Farrukh</text>
+            <refs nrefs="1-40"/>
+         </w>
+         <w n="1-70">
+            <text>.</text>
+         </w>
+         <w n="1-71">
+            <text>***</text>
+         </w>
+         <w n="1-72">
+            <text>Like</text>
+            <refs nrefs="1-43"/>
+         </w>
+         <w n="1-73">
+            <text>the</text>
+            <refs nrefs="1-45"/>
+         </w>
+         <w n="1-74">
+            <text>trembling</text>
+            <refs nrefs="1-45"/>
+         </w>
+         <w n="1-75">
+            <text>aspen</text>
+            <refs nrefs="1-44"/>
+         </w>
+         <w n="1-76">
+            <text>,</text>
+         </w>
+         <w n="1-77">
+            <text>becometh</text>
+            <refs nrefs="1-42"/>
+         </w>
+         <w n="1-78">
+            <text>the</text>
+            <refs nrefs="1-46"/>
+         </w>
+         <w n="1-79">
+            <text>cypress</text>
+            <refs nrefs="1-46"/>
+         </w>
+         <w n="1-80">
+            <text>of</text>
+            <refs nrefs="1-46"/>
+         </w>
+         <w n="1-81">
+            <text>the</text>
+         </w>
+         <w n="1-82">
+            <text>garden</text>
+         </w>
+         <w n="1-83">
+            <text>,</text>
+         </w>
+         <w n="1-84">
+            <text>###</text>
+         </w>
+         <w n="1-85">
+            <text>If</text>
+            <refs nrefs="1-49"/>
+         </w>
+         <w n="1-86">
+            <text>it</text>
+            <refs nrefs="1-50"/>
+         </w>
+         <w n="1-87">
+            <text>see</text>
+            <refs nrefs="1-50"/>
+         </w>
+         <w n="1-88">
+            <text>the</text>
+            <refs nrefs="1-52"/>
+         </w>
+         <w n="1-89">
+            <text>heart</text>
+            <refs nrefs="1-52"/>
+         </w>
+         <w n="1-90">
+            <text>-</text>
+            <refs nrefs="1-52"/>
+         </w>
+         <w n="1-91">
+            <text>alluring</text>
+            <refs nrefs="1-52"/>
+         </w>
+         <w n="1-92">
+            <text>stature</text>
+            <refs nrefs="1-51"/>
+         </w>
+         <w n="1-93">
+            <text>of</text>
+            <refs nrefs="1-52"/>
+         </w>
+         <w n="1-94">
+            <text>Farrukh</text>
+            <refs nrefs="1-53"/>
+         </w>
+         <w n="1-95">
+            <text>.</text>
+         </w>
+         <w n="1-96">
+            <text>***</text>
+         </w>
+         <w n="1-97">
+            <text>O</text>
+            <refs nrefs="1-56"/>
+         </w>
+         <w n="1-98">
+            <text>Saki</text>
+            <refs nrefs="1-56"/>
+         </w>
+         <w n="1-99">
+            <text>give</text>
+            <refs nrefs="1-55"/>
+         </w>
+         <w n="1-100">
+            <text>wine</text>
+            <refs nrefs="1-57"/>
+         </w>
+         <w n="1-101">
+            <text>of</text>
+            <refs nrefs="1-57"/>
+         </w>
+         <w n="1-102">
+            <text>arghavan</text>
+            <refs nrefs="1-58"/>
+         </w>
+         <w n="1-103">
+            <text>hue</text>
+            <refs nrefs="1-58"/>
+         </w>
+         <w n="1-104">
+            <text>###</text>
+         </w>
+         <w n="1-105">
+            <text>To</text>
+            <refs nrefs="1-60"/>
+         </w>
+         <w n="1-106">
+            <text>the</text>
+            <refs nrefs="1-61"/>
+         </w>
+         <w n="1-107">
+            <text>memory</text>
+            <refs nrefs="1-61"/>
+         </w>
+         <w n="1-108">
+            <text>of</text>
+            <refs nrefs="1-61"/>
+         </w>
+         <w n="1-109">
+            <text>the</text>
+            <refs nrefs="1-62"/>
+         </w>
+         <w n="1-110">
+            <text>eye</text>
+            <refs nrefs="1-62"/>
+         </w>
+         <w n="1-111">
+            <text>of</text>
+            <refs nrefs="1-62"/>
+         </w>
+         <w n="1-112">
+            <text>sorcery</text>
+            <refs nrefs="1-63"/>
+         </w>
+         <w n="1-113">
+            <text>of</text>
+            <refs nrefs="1-63"/>
+         </w>
+         <w n="1-114">
+            <text>Farrukh</text>
+            <refs nrefs="1-64"/>
+         </w>
+         <w n="1-115">
+            <text>.</text>
+         </w>
+         <w n="1-116">
+            <text>***</text>
+         </w>
+         <w n="1-117">
+            <text>Bent</text>
+            <refs nrefs="1-66"/>
+         </w>
+         <w n="1-118">
+            <text>like</text>
+            <refs nrefs="1-69"/>
+         </w>
+         <w n="1-119">
+            <text>a</text>
+            <refs nrefs="1-70"/>
+         </w>
+         <w n="1-120">
+            <text>bow</text>
+            <refs nrefs="1-70"/>
+         </w>
+         <w n="1-121">
+            <text>,</text>
+         </w>
+         <w n="1-122">
+            <text>became</text>
+            <refs nrefs="1-67"/>
+         </w>
+         <w n="1-123">
+            <text>my</text>
+            <refs nrefs="1-68"/>
+         </w>
+         <w n="1-124">
+            <text>stature</text>
+            <refs nrefs="1-68"/>
+         </w>
+         <w n="1-125">
+            <text>###</text>
+         </w>
+         <w n="1-126">
+            <text>From</text>
+            <refs nrefs="1-72"/>
+         </w>
+         <w n="1-127">
+            <text>grief</text>
+            <refs nrefs="1-73"/>
+         </w>
+         <w n="1-128">
+            <text>continuous</text>
+            <refs nrefs="1-74"/>
+         </w>
+         <w n="1-129">
+            <text>as</text>
+            <refs nrefs="1-75"/>
+         </w>
+         <w n="1-130">
+            <text>the</text>
+            <refs nrefs="1-76"/>
+         </w>
+         <w n="1-131">
+            <text>eyebrow</text>
+            <refs nrefs="1-76"/>
+         </w>
+         <w n="1-132">
+            <text>of</text>
+            <refs nrefs="1-76"/>
+         </w>
+         <w n="1-133">
+            <text>Farrukh</text>
+            <refs nrefs="1-77"/>
+         </w>
+         <w n="1-134">
+            <text>.</text>
+         </w>
+         <w n="1-135">
+            <text>***</text>
+         </w>
+         <w n="1-136">
+            <text>The</text>
+            <refs nrefs="1-79"/>
+         </w>
+         <w n="1-137">
+            <text>breeze</text>
+            <refs nrefs="1-79"/>
+         </w>
+         <w n="1-138">
+            <text>of</text>
+            <refs nrefs="1-79"/>
+         </w>
+         <w n="1-139">
+            <text>the</text>
+            <refs nrefs="1-80"/>
+         </w>
+         <w n="1-140">
+            <text>musk</text>
+            <refs nrefs="1-80"/>
+         </w>
+         <w n="1-141">
+            <text>of</text>
+            <refs nrefs="1-80"/>
+         </w>
+         <w n="1-142">
+            <text>Tatar</text>
+            <refs nrefs="1-81"/>
+         </w>
+         <w n="1-143">
+            <text>,</text>
+         </w>
+         <w n="1-144">
+            <text>ashamed</text>
+            <refs nrefs="1-82"/>
+         </w>
+         <w n="1-145">
+            <text>made</text>
+            <refs nrefs="1-83"/>
+         </w>
+         <w n="1-146">
+            <text>###</text>
+         </w>
+         <w n="1-147">
+            <text>The</text>
+            <refs nrefs="1-85"/>
+         </w>
+         <w n="1-148">
+            <text>perfume</text>
+            <refs nrefs="1-85"/>
+         </w>
+         <w n="1-149">
+            <text>of</text>
+            <refs nrefs="1-85"/>
+         </w>
+         <w n="1-150">
+            <text>the</text>
+            <refs nrefs="1-86"/>
+         </w>
+         <w n="1-151">
+            <text>tress</text>
+            <refs nrefs="1-86"/>
+         </w>
+         <w n="1-152">
+            <text>of</text>
+            <refs nrefs="1-86"/>
+         </w>
+         <w n="1-153">
+            <text>ambergris</text>
+            <refs nrefs="1-87"/>
+         </w>
+         <w n="1-154">
+            <text>of</text>
+            <refs nrefs="1-87"/>
+         </w>
+         <w n="1-155">
+            <text>***</text>
+         </w>
+         <w n="1-156">
+            <text>If</text>
+            <refs nrefs="1-90"/>
+         </w>
+         <w n="1-157">
+            <text>to</text>
+            <refs nrefs="1-95"/>
+         </w>
+         <w n="1-158">
+            <text>a</text>
+            <refs nrefs="1-96"/>
+         </w>
+         <w n="1-159">
+            <text>place</text>
+            <refs nrefs="1-96"/>
+         </w>
+         <w n="1-160">
+            <text>,</text>
+         </w>
+         <w n="1-161">
+            <text>be</text>
+            <refs nrefs="1-96"/>
+         </w>
+         <w n="1-162">
+            <text>the</text>
+            <refs nrefs="1-91"/>
+         </w>
+         <w n="1-163">
+            <text>inclination</text>
+            <refs nrefs="1-91"/>
+         </w>
+         <w n="1-164">
+            <text>of</text>
+            <refs nrefs="1-91"/>
+         </w>
+         <w n="1-165">
+            <text>any</text>
+            <refs nrefs="1-93"/>
+         </w>
+         <w n="1-166">
+            <text>one's</text>
+            <refs nrefs="1-94"/>
+         </w>
+         <w n="1-167">
+            <text>heart</text>
+            <refs nrefs="1-92"/>
+         </w>
+         <w n="1-168">
+            <text>,</text>
+         </w>
+         <w n="1-169">
+            <text>###</text>
+         </w>
+         <w n="1-170">
+            <text>The</text>
+            <refs nrefs="1-99"/>
+         </w>
+         <w n="1-171">
+            <text>inclination</text>
+            <refs nrefs="1-99"/>
+         </w>
+         <w n="1-172">
+            <text>of</text>
+            <refs nrefs="1-99"/>
+         </w>
+         <w n="1-173">
+            <text>my</text>
+            <refs nrefs="1-101"/>
+         </w>
+         <w n="1-174">
+            <text>heart</text>
+            <refs nrefs="1-100"/>
+         </w>
+         <w n="1-175">
+            <text>is</text>
+            <refs nrefs="1-98"/>
+         </w>
+         <w n="1-176">
+            <text>towards</text>
+            <refs nrefs="1-102"/>
+         </w>
+         <w n="1-177">
+            <text>the</text>
+         </w>
+         <w n="1-178">
+            <text>grace</text>
+         </w>
+         <w n="1-179">
+            <text>of</text>
+            <refs nrefs="1-102"/>
+         </w>
+         <w n="1-180">
+            <text>Farrukh</text>
+            <refs nrefs="1-103"/>
+         </w>
+         <w n="1-181">
+            <text>.</text>
+         </w>
+         <w n="1-182">
+            <text>***</text>
+         </w>
+         <w n="1-183">
+            <text>I</text>
+            <refs nrefs="1-107"/>
+         </w>
+         <w n="1-184">
+            <text>am</text>
+            <refs nrefs="1-107"/>
+         </w>
+         <w n="1-185">
+            <text>the</text>
+            <refs nrefs="1-105"/>
+         </w>
+         <w n="1-186">
+            <text>slave</text>
+            <refs nrefs="1-105"/>
+         </w>
+         <w n="1-187">
+            <text>of</text>
+            <refs nrefs="1-105"/>
+         </w>
+         <w n="1-188">
+            <text>resolution</text>
+            <refs nrefs="1-106"/>
+         </w>
+         <w n="1-189">
+            <text>of</text>
+            <refs nrefs="1-106"/>
+         </w>
+         <w n="1-190">
+            <text>that</text>
+            <refs nrefs="1-107"/>
+         </w>
+         <w n="1-191">
+            <text>one</text>
+            <refs nrefs="1-107"/>
+         </w>
+         <w n="1-192">
+            <text>who</text>
+            <refs nrefs="1-108"/>
+         </w>
+         <w n="1-193">
+            <text>is</text>
+            <refs nrefs="1-109"/>
+         </w>
+         <w n="1-194">
+            <text>###</text>
+         </w>
+         <w n="1-195">
+            <text>Like</text>
+            <refs nrefs="1-111"/>
+         </w>
+         <w n="1-196">
+            <text>Hafiz</text>
+            <refs nrefs="1-112"/>
+         </w>
+         <w n="1-197">
+            <text>,</text>
+         </w>
+         <w n="1-198">
+            <text>the</text>
+            <refs nrefs="1-113"/>
+         </w>
+         <w n="1-199">
+            <text>attendant</text>
+            <refs nrefs="1-113"/>
+         </w>
+         <w n="1-200">
+            <text>of</text>
+         </w>
+         <w n="1-201">
+            <text>the</text>
+         </w>
+         <w n="1-202">
+            <text>black</text>
+         </w>
+         <w n="1-203">
+            <text>tress</text>
+         </w>
+         <w n="1-204">
+            <text>of</text>
+         </w>
+         <w n="1-205">
+            <text>Farrukji</text>
+            <refs nrefs="1-116"/>
+         </w>
+         <w n="1-206">
+            <text>.</text>
+         </w>
+         <w n="1-207">
+            <text>***</text>
+         </w>
+      </wds>
+   </sentence>
+</aligned-text>
